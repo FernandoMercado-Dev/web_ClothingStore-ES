@@ -1,4 +1,4 @@
-# Web Design and Development
+# Clothing Store (FrontEnd Store)
 
 ## Introduction
 This is a practice project to improve my skills in HTML and CSS. The goal is to create a simple webpage in Spanish about a clothing store.
