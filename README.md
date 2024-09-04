@@ -1,4 +1,4 @@
-# Clothing Store (FrontEnd Store)
+# Clothing Store (FrontEnd)
 
 ## Introduction
 This is a practice project to improve my skills in HTML and CSS. The goal is to create a simple webpage in spanish about a clothing store with 3 differents pages: principal page, about us page and product purchase page.
@@ -26,7 +26,7 @@ This is a practice project to improve my skills in HTML and CSS. The goal is to 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/FernandoMercado-Dev/web_ClothingStore-FrontEnd-ES.git
+git clone https://github.com/FernandoMercado-Dev/web_ClothingStore-ES.git
 ```
 2. Navigate to the project folder
 3. Open the index.html file
